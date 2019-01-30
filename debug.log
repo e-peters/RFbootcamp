@@ -1,0 +1,6 @@
+[0123/203912.328:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0123/203912.332:ERROR:process_reader_win.cc(151)] SuspendThread: Toegang geweigerd. (0x5)
+[0123/203912.332:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0123/203912.335:ERROR:exception_snapshot_win.cc(88)] thread ID 17188 not found in process
+[0123/203912.408:ERROR:process_reader_win.cc(123)] NtOpenThread: {Toegang geweigerd} Een proces heeft toegang tot een object aangevraagd, maar heeft deze toegangsrechten niet gekregen. (0xc0000022)
+[0123/203912.410:ERROR:exception_snapshot_win.cc(88)] thread ID 21716 not found in process
